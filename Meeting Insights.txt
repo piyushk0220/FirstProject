@@ -1,0 +1,51 @@
+
+
+1.Ppt: Overview-what we are trying to do
+	Scope: Screen we built and what it does(mockup screen)
+	Tech Stack: Front, backend, Database, Cloud Platform(compute , deployment  ??)
+	Use Cases & Sequence Diagram
+	Design: develope at own -->> imp point: DB structure,Services, Screen
+
+
+============================================================
+	
+
+Login: Username
+	password
+
+vehicle_Info: Name
+	      VIN
+	      Distance covered
+	      
+Trip_detail: start time
+	     end time
+	     distance travelled
+	     fuel consumed
+
+Driver_detail: Name
+	       
+
+
+use case for login,
+Use case for dashboard
+==============
+UI
+width 215px incres
+
+
+
+
+api vs services(web service)
+sequence diagram
+use cases
+database tables
+=======================
+
+
+
+trip--> start_time
+	end_time
+	fuel
+
+======================================
+
